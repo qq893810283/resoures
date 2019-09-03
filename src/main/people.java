@@ -4,6 +4,6 @@ public class people {
     private int age;
 
     public people(){
-
+        super();
     }
 }
